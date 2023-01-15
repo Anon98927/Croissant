@@ -5,4 +5,10 @@ p {text-align: center;}
 body {background: rgb(244, 182, 120);}
 
 a {display: block;
-text-align: center;}
+text-align: center;
+margin: 10px;}
+
+img {display: block;
+margin: auto;
+border: 3px solid black;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.6)}
